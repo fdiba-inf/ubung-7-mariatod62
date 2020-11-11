@@ -35,3 +35,4 @@ public class NumberCounter {
         return 0;
     }
 }
+

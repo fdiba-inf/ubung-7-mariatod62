@@ -24,7 +24,6 @@ public class RecursivePrimePrinter {
     }
 
       }
-    }
 
     public static boolean isPrime(int n) {
         // Implement method
@@ -38,4 +37,4 @@ public class RecursivePrimePrinter {
       } 
         return false;
     }
-}
+
